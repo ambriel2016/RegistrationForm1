@@ -1,7 +1,5 @@
 
 
-
-
 /*//////////////////////////////////////////////////////////////////
 [ FONT ]*/
 
@@ -134,21 +132,21 @@ iframe {
 .txt1 {
   font-family: Ubuntu-Regular;
   font-size: 15px;
-  color: #999999;
+  color: #555;
   line-height: 1.4;
 }
 
 .txt2 {
   font-family: Ubuntu-Regular;
   font-size: 15px;
-  color: #57b846;
+  color: #555;
   line-height: 1.4;
 }
 
 .txt3 {
   font-family: Ubuntu-Bold;
   font-size: 15px;
-  color: #57b846;
+  color: #555;
   line-height: 1.4;
   text-transform: uppercase;
 }
@@ -211,7 +209,11 @@ iframe {
   width: 100%;
   top: 0;
   left: 0;
-  background-color: #57b846;
+  background-image: -moz-linear-gradient(to left, #74ebd5, #9face6);
+  background-image: -ms-linear-gradient(to left, #74ebd5, #9face6);
+  background-image: -o-linear-gradient(to left, #74ebd5, #9face6);
+  background-image: -webkit-linear-gradient(to left, #74ebd5, #9face6);
+  background-image: linear-gradient(to left, #74ebd5, #9face6);
   padding-top: 50px;
   padding-bottom: 39px;
 }
@@ -297,7 +299,11 @@ iframe {
   padding: 0 20px;
   width: 100%;
   height: 50px;
-  background-color: #57b846;
+  background-image: -moz-linear-gradient(to left, #74ebd5, #9face6);
+  background-image: -ms-linear-gradient(to left, #74ebd5, #9face6);
+  background-image: -o-linear-gradient(to left, #74ebd5, #9face6);
+  background-image: -webkit-linear-gradient(to left, #74ebd5, #9face6);
+  background-image: linear-gradient(to left, #74ebd5, #9face6);
   border-radius: 25px;
 
   font-family: Ubuntu-Bold;
